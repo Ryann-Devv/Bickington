@@ -60,7 +60,8 @@ hr {
 }
 img {
   position: absolute;
-  left: 27%
+  left: 27%;
+  top: 10%
 }
 
 #notice {
