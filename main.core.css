@@ -10,7 +10,7 @@ body {
  background-color: #ffff;
 }
 h1 {
-  color: #fff;
+  color: #000000;
   position: absolute;
   top: 20%;
   left: 20%;
@@ -25,7 +25,7 @@ hr {
 }
 
 #linka {
-   color: #fff;
+   color: #000000;
   position: absolute;
   left: 20%;
   font-size: 25px;
@@ -34,7 +34,7 @@ hr {
 }
 
 #linkb {
-  color: #fff;
+  color: #000000;
   position: absolute;
   left: 40%;
   font-size: 25px;
@@ -43,7 +43,7 @@ hr {
 }
 
 #linkc {
-  color: #fff;
+  color: #000000;
   position: absolute;
   left: 65%;
   font-size: 25px;
@@ -51,7 +51,7 @@ hr {
    text-decoration: none
 }
 #linkd {
-  color: #fff;
+  color: #000000;
   position: absolute;
   left: 42%;
   font-size: 25px;
