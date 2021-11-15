@@ -58,7 +58,10 @@ hr {
   top: 65%;
    text-decoration: none
 }
-
+img {
+  position: absolute;
+  left: 30%
+}
 
 #notice {
   color: #fff;
