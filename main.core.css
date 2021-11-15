@@ -7,7 +7,7 @@
 
 body {
  background-image: url("bs1.jpgw");
- background-color: #0F1015;
+ background-color: #ffff;
 }
 h1 {
   color: #fff;
@@ -60,7 +60,7 @@ hr {
 }
 img {
   position: absolute;
-  left: 30%
+  left: 33%
 }
 
 #notice {
